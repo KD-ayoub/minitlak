@@ -45,7 +45,7 @@ exit
 - Clone repository
 
 ```shell=
-git clone https://github.com/imophen/minitalk && cd Minitalk
+git clone https://github.com/KD-ayoub/minitlak && cd minitalk
 ```
 
 - Compile server and client
